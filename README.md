@@ -1,2 +1,2 @@
-# Royale Inconnue
+# Royale
 Un Mod Among Us

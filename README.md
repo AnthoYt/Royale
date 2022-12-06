@@ -1,24 +1,10 @@
 # Royale
 Un Mod Among Us
+Mod Steam : 
+Il faut télécharger la dernière version bien sûr, l'image est là comme exemple. Ensuite vous devez copier coller les éléments télécharger dans le fichier que vous venez d'ouvrir
+Voila c'est tout ! Maintenant si vous lancez among us vous aurez automatiquement les modes, donc si vous voulez jouer sans, il faut supprimer les fichiers que vous avez ajouté.
 
-Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOtherRoles", "TheOtherRoles\TheOtherRoles.csproj", "{11FBC798-BAF5-4EE5-9511-BE6DB0592F99}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheOtherUpdater", "TheOtherUpdater\TheOtherUpdater.vcxproj", "{73A5662B-9C59-4C97-95C5-F5B2A8BBDDCA}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11FBC798-BAF5-4EE5-9511-BE6DB0592F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11FBC798-BAF5-4EE5-9511-BE6DB0592F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11FBC798-BAF5-4EE5-9511-BE6DB0592F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11FBC798-BAF5-4EE5-9511-BE6DB0592F99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73A5662B-9C59-4C97-95C5-F5B2A8BBDDCA}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{73A5662B-9C59-4C97-95C5-F5B2A8BBDDCA}.Debug|Any CPU.Build.0 = Debug|Win32
-		{73A5662B-9C59-4C97-95C5-F5B2A8BBDDCA}.Release|Any CPU.ActiveCfg = Release|Win32
-		{73A5662B-9C59-4C97-95C5-F5B2A8BBDDCA}.Release|Any CPU.Build.0 = Release|Win32
-	EndGlobalSection
-EndGlobal
+Mod Epic Games : Télécharger la dernière version
+Trouvez le dossier de votre jeu. Doit être stocké dans « Epic/AmongUs » (où que vous ayez installé Epic sur votre PC)
+Maintenant, décompressez et faites glisser ou extrayez les fichiers du .zip dans le dossier original du jeu Epic Among Us.
+Exécutez le jeu en démarrant le jeu dans votre lanceur Epic Games (le premier lancement peut prendre un certain temps). 
